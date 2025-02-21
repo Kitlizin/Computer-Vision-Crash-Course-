@@ -1,4 +1,4 @@
-** Computer Vision Activity **
+## Computer Vision Activity
 
 
 In this activity, we explored Computer Vision by performing six key tasks using OpenCV:
