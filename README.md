@@ -1,4 +1,6 @@
 ** Computer Vision Activity **
+
+
 In this activity, we explored Computer Vision by performing six key tasks using OpenCV:
 
  - Basic I/O Scripting (Images) 🖼️ – Read, display, save, and modify images.
