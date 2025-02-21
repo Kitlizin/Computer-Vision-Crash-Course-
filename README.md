@@ -1,11 +1,11 @@
-Basic I/O Scripting (Images): Handles reading, displaying, saving, and modifying images using OpenCV.
+** Computer Vision Activity **
+In this activity, we explored Computer Vision by performing six key tasks using OpenCV:
 
-Basic I/O Scripting (Videos): Processes video files and real-time streams, including reading, displaying, and saving frames.
+ - Basic I/O Scripting (Images) 🖼️ – Read, display, save, and modify images.
+ - Basic I/O Scripting (Videos) 🎥 – Process video files and real-time streams.
+ - Edge and Contour Detection ✨ – Detect object boundaries using the Canny operator.
+ - Line and Circle Detection 🔴📏 – Identify geometric shapes using the Hough Transform.
+ - Face Detection 👤📸 – Detect faces in real-time using Haar cascades.
+ - Face Recognition 🆔🤖 – Recognize individuals using Eigenface, Fisherface, and LBPH methods.
 
-Edge and Contour Detection: Detects object boundaries using techniques like Canny operator, useful for shape recognition.
-
-Line and Circle Detection: Uses Hough Transform to detect geometric shapes, and object recognition.
-
-Face Detection using OpenCV: Identifies faces through real-time stream using Haar cascades.
-
-Performing Face Recognition: Recognizes and verifies individuals using Eigenface Recognition, Fisherface Recognition, and Local Binary Pattern Histograms (LBPH) Recognition.
+This hands-on experience deepened our understanding of image processing and real-time object recognition using OpenCV. 🚀
